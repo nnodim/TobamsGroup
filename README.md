@@ -38,7 +38,7 @@ npm Install
 #### Get item
 
 ```http
-  GET /api/upload/
+  POST /api/upload/
 ```
 
 | Parameter | Type     | Description                       |
