@@ -47,4 +47,4 @@ npm Install
 
 ## Documentation
 
-[Documentation](https://gold-shuttle-7000.postman.co/workspace/53df4893-0da2-40ea-886a-e96822053a4f/documentation/24258162-f6a63232-2a6b-4e72-b74f-939b36324824)
+[Documentation](https://documenter.getpostman.com/view/24258162/2s9YsT5nor)
